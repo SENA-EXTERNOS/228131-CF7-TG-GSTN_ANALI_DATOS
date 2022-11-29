@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Titulo de primer nivel
+      h1 Gestión del proyecto de <em>software</em> alineado con la metodología del PMI <em>(Project Management Institute)</em>
 
 </template>
 
