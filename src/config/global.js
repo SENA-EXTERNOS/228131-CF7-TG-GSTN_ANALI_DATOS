@@ -42,18 +42,31 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Metodologías para el desarrollo de <em>software</em>',
             hash: 't_1_1',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
         titulo: `Gestión del proyecto de <em>software</em> alineado con la metodología del PMI <em>(Project Management Institute)</em>`,
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: `Ciclo de vida y organización del proyecto de <em>software</em>`,
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: `Control y seguimiento de procesos para administrar exitosamente el proyecto`,
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',

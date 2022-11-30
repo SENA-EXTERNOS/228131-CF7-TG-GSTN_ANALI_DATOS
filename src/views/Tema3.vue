@@ -7,6 +7,8 @@
         span 3
       h1 Metodologías para el desarrollo de proyectos de <em>software</em>
 
+
+
 </template>
 
 <script>
