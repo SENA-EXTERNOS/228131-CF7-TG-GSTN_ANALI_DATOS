@@ -46,7 +46,7 @@
           img(src='@/assets/curso/temas/tema2/img-4.png') 
       .col-lg-8
         .cajon-b.color-primario.p-3.mb-5.color-pos-2
-          p.mb-0 El ciclo de vida de un proyecto de <em>software</em> nace desde la entrega de los requerimientos por parte del cliente interesado en la construcción del proyecto. Se debe tener presente que el <em>software</em> es un producto y como tal requiere de la utilización de estándares que permitan garantizar que este cumple ciertos requerimientos de calidad y que se encuentra apto para el uso del cliente, ahora bien la organización del proyecto trata de colocar las fases y actividades que esta tiene de una manera que se pueda realizar un seguimiento adecuado del progreso del proyecto, uno de los problemas que tienen los proyectos de <em>software</em> es precisamente conocer en tiempo real o en la mayor brevedad posible el estado del proyecto y realizar los cambios requeridos para evitar retrasos en las actividades del mismo y que se genere traumatismo entre los miembros del equipo de trabajo ya que esto puede generar inconvenientes en el desarrollo de actividades.
+          p.mb-0 El ciclo de vida de un proyecto de <em>software</em> nace desde la entrega de los requerimientos por parte del cliente interesado en la construcción del proyecto. Se debe tener presente que el <em>software</em> es un producto y como tal requiere de la utilización de estándares que permitan garantizar que este cumple ciertos requerimientos de calidad y que se encuentra apto para el uso del cliente, ahora bien la organización del proyecto trata de colocar las fases y actividades que esta tiene de una manera que se pueda realizar un seguimiento adecuado del progreso del proyecto, uno de los problemas que tienen los proyectos de <e m>software</e> es precisamente conocer en tiempo real o en la mayor brevedad posible el estado del proyecto y realizar los cambios requeridos para evitar retrasos en las actividades del mismo y que se genere traumatismo entre los miembros del equipo de trabajo ya que esto puede generar inconvenientes en el desarrollo de actividades.
 
     p.mb-5 En lugar de abordar un proyecto de forma aleatoria y acabar primero lo más fácil, entender el ciclo de vida de la gestión de proyectos permite a los equipos lo siguiente:
 
@@ -281,16 +281,7 @@
       .col-lg-10
         .cajon.p-4.mb-4.color-cajon
           p Es importante entender que no se controla lo que no se mide y en el caso del riesgo es importante establecer medidas y crear planes de gestión para los mismos, ya que siempre se presentarán situaciones de riesgo para el mismo; es un error no establecer desde la gestión del proyecto un plan de riesgos, pues en este proceso es indispensable involucrar al equipo de trabajo para que desde su experiencia, emulen situaciones de riesgo por las cuales podría pasar un proyecto y así tener un banco de posibilidades para generar los planes de mitigación de los mismos. 
-
-    
-        
-
-
-
-
-
-
-
+          
 </template>
 
 <script>

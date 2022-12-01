@@ -74,6 +74,20 @@ export default {
         numero: '3',
         titulo: `Metodologías para el desarrollo de proyectos de <em>software</em>`,
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.1',
+            titulo: `Tecnologías y criterios para procesos de desarrollo de <em>software</em>`,
+            hash: 't_3_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.2',
+            titulo: `Modelos de desarrollo de <em>software</em>`,
+            hash: 't_3_2',
+          },
+        ],
       },
     ],
     subMenu: [
