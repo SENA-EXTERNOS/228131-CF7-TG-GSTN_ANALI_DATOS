@@ -80,7 +80,7 @@
     .row.justify-content-center.mb-5
       .col-8.col-lg-4
         figure
-          img.l.my-3(src="@/assets/curso/temas/tema3/img-8.png")      
+          img.my-3(src="@/assets/curso/temas/tema3/img-8.png")      
       .col-lg-8
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Aplicabilidad al medio ambiente") No todas las tecnologías de desarrollo de <em>software</em> son apropiadas para cada entorno. Por ello, es fundamental asegurarse de que las herramientas adecuadas son compatibles con los entornos requeridos. Un programa de escritorio de <em>Windows</em>, por ejemplo, nunca será utilizado por una herramienta de despliegue web.
