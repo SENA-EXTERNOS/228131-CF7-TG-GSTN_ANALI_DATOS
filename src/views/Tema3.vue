@@ -37,7 +37,7 @@
           .tarjeta.clr-paleYellow.p-4(titulo="Incremental")
             p Una combinación de los anteriores. Es una metodología iterativa: en cada repetición, se entrega un producto no definitivo, pero plenamente funcional, para someterlo a la evaluación del cliente, con quien se mantiene un contacto permanente. Así, con cada iteración se avanza hacia el entregable final.
           .tarjeta.clr-paleYellow.p-4(titulo="En espiral")
-            p <b>Un enfoque cíclico:</b> se repiten varias veces las etapas de planificación, análisis, evaluación y desarrollo. Se minimiza el riesgo al dividir el proyecto en segmentos pequeños y, por lo tanto, controlables.
+            p Un enfoque cíclico: se repiten varias veces las etapas de planificación, análisis, evaluación y desarrollo. Se minimiza el riesgo al dividir el proyecto en segmentos pequeños y, por lo tanto, controlables.
           .tarjeta.clr-paleYellow.p-4(titulo="Metodologías <br> ágiles")
             p Esta familia de métodos es la que más se aplica en la actualidad. Todos ellos se caracterizan por una permanente interacción entre los miembros del equipo de desarrollo, poca planificación, asesoría constante por parte del cliente e iteraciones cortas, al cabo de las cuales se entrega una demostración preliminar del producto. Son tanto incrementales como iterativas.          
       .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="zoom-in")

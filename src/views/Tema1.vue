@@ -123,14 +123,14 @@
       .py-4.py-md-5(titulo="Metodologías Ágiles")
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p La metodología Scrum es una de las más utilizadas a nivel mundial, ya que provee un marco de trabajo sencillo el cual involucra al cliente en todo momento en el desarrollo del producto, lo que lo convierte en el protagonista del proceso de desarrollo; esta metodología cuenta con diferentes artefactos, los cuales permiten generar inercia con la construcción del producto tales como el <em>product backlog</em> que es una lista priorizada de los requerimientos del usuario y que se deben construir e implementar de acuerdo a las necesidades del cliente,  generando valor al negocio, es decir, deben ser funcionales. Luego se encuentra el <em>sprint backlog</em>, un detalle de la lista de requerimientos del <em>product backlog</em>, pero distribuida en actividades que se deben desarrollar para cumplir con el objetivo del requerimiento a construir.
+            p La metodología <em>Scrum</em> es una de las más utilizadas a nivel mundial, ya que provee un marco de trabajo sencillo el cual involucra al cliente en todo momento en el desarrollo del producto, lo que lo convierte en el protagonista del proceso de desarrollo; esta metodología cuenta con diferentes artefactos, los cuales permiten generar inercia con la construcción del producto tales como el <em>product backlog</em> que es una lista priorizada de los requerimientos del usuario y que se deben construir e implementar de acuerdo a las necesidades del cliente,  generando valor al negocio, es decir, deben ser funcionales. Luego se encuentra el <em>sprint backlog</em>, un detalle de la lista de requerimientos del <em>product backlog</em>, pero distribuida en actividades que se deben desarrollar para cumplir con el objetivo del requerimiento a construir.
           .col-md-6
             .titulo-sexto.color-acento-contenido.pb-0
               p.mb-0.text-small <b>Figura 3.</b> Metodología <em>Scrum</em>
             figure
               img(src='@/assets/curso/temas/tema1/img-15.svg')
 
-    p.mb-5 A continuación, los roles de la metodología SCRUM:
+    p.mb-5 A continuación, los roles de la metodología <em>SCRUM</em>:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-md-9
