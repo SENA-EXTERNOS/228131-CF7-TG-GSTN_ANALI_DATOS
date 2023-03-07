@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo: `Recursos de diseño de <em>software</em> según criterios técnicos`,
-    descripcionCurso: `Este componente formativo está diseñado para abordar la temática de los procedimientos y requisitos para el diseño de soluciones informáticas, además de los criterios de aceptación que se deben tener en cuenta para su aprobación.`,
+    descripcionCurso: `Este componente formativo está diseñado para abordar la temática de los procedimientos y requisitos para el diseño de soluciones informáticas; además, se tocarán aspectos claves de los criterios de aceptación que se deben tener en cuenta para su aprobación y las metodologías para el desarrollo de un proyecto de <em>software.</em>`,
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -38,35 +38,13 @@ export default {
         numero: '1',
         titulo: `Diseño del plan de trabajo para el proyecto de <em>software</em>`,
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Metodologías para el desarrollo de <em>software</em>',
-            hash: 't_1_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: `Gestión del proyecto de <em>software</em> alineado con la metodología del PMI <em>(Project Management Institute)</em>`,
+        titulo: `Gestión del proyecto de <em>software</em> alineado con la metodología del PMI (Project Management Institute)`,
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: `Ciclo de vida y organización del proyecto de <em>software</em>`,
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: `Control y seguimiento de procesos para administrar exitosamente el proyecto`,
-            hash: 't_2_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -74,20 +52,6 @@ export default {
         numero: '3',
         titulo: `Metodologías para el desarrollo de proyectos de <em>software</em>`,
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: `Tecnologías y criterios para procesos de desarrollo de <em>software</em>`,
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: `Modelos de desarrollo de <em>software</em>`,
-            hash: 't_3_2',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -132,26 +96,26 @@ export default {
   },
   complementario: [
     {
-      tema: `Gestión de proyectos con <em>Project</em>: bajo el enfoque del PMI.`,
-      referencia: `Salazar Castañeda, Francisco M. (S.f). <em>Gestión de proyectos con Project: bajo el enfoque del PMI. </em>Editorial MACRO `,
+      tema: `Diseño del plan de trabajo para el proyecto de <em>software</em>`,
+      referencia: `Salazar Castañeda, F. M. (s.f). <em>Gestión de proyectos con Project: bajo el enfoque del PMI.</em> Editorial MACRO.`,
       tipo: `Libro`,
       link: `https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_ebooks0002698`,
     },
     {
-      tema: `Modelos de desarrollo de <em>software.</em> ¿Cuál elegir?`,
-      referencia: `Hernández, Angel M. Bron, Oliva B. Liliannes, Fonseca.  Matamoros Benitez, Caridad (2019). <em>Modelos de desarrollo de software. ¿Cuál elegir?</em>, 11 (3), 34-55.`,
+      tema: `Gestión del proyecto de <em>software</em> alineado con la metodología del PMI (Project Management Institute)`,
+      referencia: `Hernández, A. M. Bron, O. B., Liliannes, F. &  Matamoros Benitez, C. (2019). Modelos de desarrollo de software. <em>¿Cuál elegir?</em> 11(3), p. 34-55.`,
       tipo: `Artículo`,
       link: `https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1i756fj/TN_cdi_dialnet_primary_oai_dialnet_unirioja_es_ART0001555258`,
     },
     {
-      tema: `Implementación del Estándar ISO/IEC 29110 en Centros de Desarrollo de <em>Software</em> de Universidades Mexicanas: Experiencia del Estado de Zacatecas`,
-      referencia: `Laporte, Claude Y. Mejía, Jezreel. Muñoz, Mima. (2018). <em>Implementación del Estándar ISO/IEC 29110 en Centros de Desarrollo de Software de Universidades Mexicanas:</em> Experiencia del Estado de Zacatecas`,
+      tema: `Gestión del proyecto de <em>software</em> alineado con la metodología del PMI (Project Management Institute)`,
+      referencia: `Laporte, C. Y., Mejía, J. & Muñoz, M. (2018). <em>Implementación del Estándar ISO/IEC 29110 en Centros de Desarrollo de Software de Universidades Mexicanas: Experiencia del Estado de Zacatecas.</em>`,
       tipo: `Artículo`,
       link: `https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1i756fj/TN_cdi_scielo_journals_S1646_98952018000400005`,
     },
     {
-      tema: `Implementación de una Oficina de Gestión de Proyectos (PMO), en el área de Infraestructura, del Departamento de Responsabilidad Social y Comunidades de Lundin Gold`,
-      referencia: `Ambuludí Amay, Carmen del C. Ortega Castro, Juan C. (2021). <em>Implementación de una Oficina de Gestión de Proyectos (PMO), en el área de Infraestructura, del Departamento de Responsabilidad Social y Comunidades de Lundin Gold, (7) 4.</em>`,
+      tema: `Gestión del proyecto de <em>software</em> alineado con la metodología del PMI (Project Management Institute)`,
+      referencia: `Ambuludí Amay, C del C. y Ortega Castro, J. C. (2021). <em>Implementación de una Oficina de Gestión de Proyectos (PMO), en el área de Infraestructura, del Departamento de Responsabilidad Social y Comunidades de Lundin Gold, (7)</em>4.`,
       tipo: `Artículo`,
       link: `https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1i756fj/TN_cdi_dialnet_primary_oai_dialnet_unirioja_es_ART0001524400`,
     },
@@ -200,15 +164,15 @@ export default {
   ],
   referencias: [
     {
-      referencia: `Alfaro, A., Carrizo, D. (2021). <em>Método de aseguramiento de la calidad en una metodología de desarrollo de software, un enfoque práctico.</em> Universidad de Tarapacá. 26, n.1, p.114-129`,
+      referencia: `Alfaro, A. y Carrizo, D. (2021). Método <em>de aseguramiento de la calidad en una metodología de desarrollo de software, un enfoque práctico.</em> Universidad de Tarapacá. `,
       link: ``,
     },
     {
-      referencia: `Cárdenas, O., Zea, M., Valarezo, M., & Ramón, R. (2021). <em>Comparativa de tendencias de desarrollo de software móvil.</em> 3C TIC 10.1, p. 123-47.`,
+      referencia: `Cárdenas, O., Zea, M., Valarezo, M. & Ramón, R. (2021). <em>Comparativa de tendencias de desarrollo de software móvil.</em> `,
       link: ``,
     },
     {
-      referencia: `Flores, F., Sanhueza, V., Valdés, H., & Reyes, L. (2021). <em>Metodologías ágiles: un análisis de los desafíos organizacionales para su implementación.</em> Revista científica del centro de investigaciones y desarrollo científico de la Universidad distrital Francisco José de Caldas. 43.1, p. 38-49.`,
+      referencia: `Flores, F., Sanhueza, V., Valdés, H. & Reyes, L. (2021). Metodologías ágiles: un análisis de los desafíos organizacionales para su implementación. <em>Revista científica del centro de investigaciones y desarrollo científico de la Universidad distrital Francisco José de Caldas, 43</em>(1), p. 38-49.`,
       link: ``,
     },
     {

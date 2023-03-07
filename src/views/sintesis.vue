@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 Apreciado aprendiz para una mejor navegación de los conceptos y conocimientos trabajados en este componente formativo puede visualizar este mapa de navegación para que pueda realizar el proceso de exploración del documento de una manera mucho más sencilla y eficiente le deseamos éxitos en este proceso.
+    p.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo:
 
     .row.justify-content-center.mb-5
       .col-lg-10.mb-5

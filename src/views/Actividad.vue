@@ -11,7 +11,10 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Recursos de diseño de <em>software</em> según criterios técnicos
-        p.mb-4 Bienvenido apreciado Aprendiz a este espacio donde colocaremos a prueba los conceptos aprendidos en nuestro componente formativo, debes leer cuidadosamente cada enunciado de esta prueba para completarla de manera exitosa, como recomendación te invitamos a realizar una lectura previa del componente formativo para despejar dudas y fortalecer mucho más los conceptos aprendidos te deseamos éxitos en la prueba.
+        p.mb-4 Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
+          br
+          br
+          |De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
