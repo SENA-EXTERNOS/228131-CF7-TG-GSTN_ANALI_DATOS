@@ -60,16 +60,11 @@
 
     h3 Tecnologías y criterios para procesos de desarrollo de <em>software</em>
 
+    p Una tecnología de desarrollo de #[em software], a veces conocida como herramienta de generación de código o un generador de código, es un programa de #[em software] utilizado por los desarrolladores para construir, mantener, modificar, apoyar y depurar otros programas, marcos o aplicaciones.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
-        p Una tecnología de desarrollo de software, a veces conocida como herramienta de generación de código o un generador de código, es un programa de software utilizado por los desarrolladores para construir, mantener, modificar, apoyar y depurar otros programas, marcos o aplicaciones.
-
-          br
-          br
-          |Aunque existen diferentes maneras de establecer la tecnología que se adecúa mejor al proyecto, se debe realizar un estudio teniendo como base los requerimientos que entrega el cliente para conectar dichas necesidades con el proyecto; en algunas ocasiones, no basta solo con darle un vistazo a las diferentes posibilidades que se tienen en el mercado actual, sino también la infraestructura con la que cuenta el cliente o la organización que desea el desarrollo de la solución informática. Un ejemplo de esto es la construcción de un software móvil y un software web, aunque ambos comparten ciertas características similares en aspectos de rendimiento e infraestructura para su despliegue, son diferentes.
-          br
-          br
-          |Muchos aplicativos solo requieren una red local para operar desde un equipo centralizador, el cual podría ser fácilmente un servidor donde se carguen las aplicaciones y servicios necesarios para el cliente, que no es lo mismo, si se requiere la construcción de un sistema que pueda ser accedido desde cualquier parte del mundo y en diferentes dispositivos. En este último caso, se pensaría en la creación de una solución orientada a la web, en la cual se requiere una conexión específica a Internet, mediante protocolos de seguridad o el uso de un hosting y dominio de acceso para la misma en ambos casos. Como se puede notar, la infraestructura necesaria para su operación es distinta, aunque el software sea el mismo.
+        p Aunque existen diferentes maneras de establecer la tecnología que se adecúa mejor al proyecto, se debe realizar un estudio teniendo como base los requerimientos que entrega el cliente para conectar dichas necesidades con el proyecto; en algunas ocasiones, no basta solo con darle un vistazo a las diferentes posibilidades que se tienen en el mercado actual, sino también la infraestructura con la que cuenta el cliente o la organización que desea el desarrollo de la solución informática. Un ejemplo de esto es la construcción de un #[em software] móvil y un #[em software] web, aunque ambos comparten ciertas características similares en aspectos de rendimiento e infraestructura para su despliegue, son diferentes.
+        p Muchos aplicativos solo requieren una red local para operar desde un equipo centralizador, el cual podría ser fácilmente un servidor donde se carguen las aplicaciones y servicios necesarios para el cliente, que no es lo mismo, si se requiere la construcción de un sistema que pueda ser accedido desde cualquier parte del mundo y en diferentes dispositivos. En este último caso, se pensaría en la creación de una solución orientada a la web, en la cual se requiere una conexión específica a Internet, mediante protocolos de seguridad o el uso de un #[em hosting] y dominio de acceso para la misma en ambos casos. Como se puede notar, la infraestructura necesaria para su operación es distinta, aunque el #[em software] sea el mismo.
       .col-lg-3
         figure
           img(src='@/assets/curso/temas/tema3/img-6.png') 
@@ -208,7 +203,7 @@
               li
               li 
                 <i class="fas fa-angle-right" aria-hidden="true"></i>
-                p.mb-0 IUtilizar el prototipo.
+                p.mb-0 Utilizar el prototipo.
               li
               li 
                 <i class="fas fa-angle-right" aria-hidden="true"></i>
@@ -237,7 +232,7 @@
       .py-4.py-md-5(titulo="El modelo de espiral")
         .row.justify-content-center.align-items-center
           .col-md-12
-            p Los productos de <em>software</em> son creados a través de múltiples repeticiones del proceso del ciclo de vida. Se rompen un mini-proyecto.
+            p Los productos de <em>software</em> son creados a través de múltiples repeticiones del proceso del ciclo de vida.
 
             p Estos modelos han sido aplicados al desarrollo de <em>software</em>.
 

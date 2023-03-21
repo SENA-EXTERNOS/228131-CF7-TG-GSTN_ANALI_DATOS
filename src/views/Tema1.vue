@@ -108,7 +108,7 @@
       .py-4.py-md-5(titulo="Desarrollo por prototipos")
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p La metodología por prototipos, permite que se generen versiones del proyecto de software, las cuales van generando, de manera incremental, los requerimientos solicitados por el cliente; esto permite ir revisando de manera progresiva el avance del proyecto y realizando cambios en el mismo, refinando el producto con cada entrega; se incluyen los requerimientos, de acuerdo con la fase en que se encuentre, y de acuerdo con el plan de trabajo y el cronograma negociado con el cliente.
+            p La metodología por prototipos, permite que se generen versiones del proyecto de #[em software], las cuales van generando, de manera incremental, los requerimientos solicitados por el cliente; esto permite ir revisando de manera progresiva el avance del proyecto y realizando cambios en el mismo, refinando el producto con cada entrega; se incluyen los requerimientos, de acuerdo con la fase en que se encuentre, y de acuerdo con el plan de trabajo y el cronograma negociado con el cliente.
               br
               br
               |Es importante tener en cuenta que este tipo de metodología es muy utilizado, porque las versiones o prototipos que se generan y se refinan, se pueden poner en marcha para que puedan ser probados en el entorno real en el que estará expuesto el proyecto; esto es una ventaja bastante significativa, porque son potenciales funcionalidades del sistema y generan valor para el cliente.
