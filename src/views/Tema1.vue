@@ -147,7 +147,7 @@
     p.mb-5(data-aos='fade-right') Afiance sus saberes con relación a las metodologías ágiles; para hacerlo, visualice con suma atención el video que se muestra a continuación: 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/pqemDIuq95g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
       
 </template>

@@ -253,7 +253,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        ImagenInfografica.color-primario.mb-5
+        ImagenInfografica.color-primario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema3/img-puntos.svg')
