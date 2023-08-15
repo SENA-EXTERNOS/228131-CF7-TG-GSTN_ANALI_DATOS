@@ -165,35 +165,35 @@ export default {
   referencias: [
     {
       referencia: `Alfaro, A. y Carrizo, D. (2021). Método <em>de aseguramiento de la calidad en una metodología de desarrollo de software, un enfoque práctico.</em> Universidad de Tarapacá. `,
-      link: ``,
+      link: `https://www.scielo.cl/pdf/ingeniare/v26n1/0718-3305-ingeniare-26-01-00114.pdf`,
     },
     {
       referencia: `Cárdenas, O., Zea, M., Valarezo, M. & Ramón, R. (2021). <em>Comparativa de tendencias de desarrollo de software móvil.</em> `,
-      link: ``,
+      link: `https://ruc.udc.es/dspace/bitstream/handle/2183/28450/Pedreira-Souto_Nieves_2021_Comparativa_Metodologias_Aplicaciones_Moviles.pdf?sequence=3`,
     },
     {
       referencia: `Flores, F., Sanhueza, V., Valdés, H. & Reyes, L. (2021). Metodologías ágiles: un análisis de los desafíos organizacionales para su implementación. <em>Revista científica del centro de investigaciones y desarrollo científico de la Universidad distrital Francisco José de Caldas, 43</em>(1), p. 38-49.`,
-      link: ``,
+      link: `https://revistas.udistrital.edu.co/index.php/revcie/article/view/18332/17831`,
     },
     {
       referencia: `Mejía, J., González, M., Calvo, J., & San Feliu, T. (2018).<em>Identificando caminos para iniciar la implementación de mejora de procesos de software en organizaciones de desarrollo de software.</em> Risti. Revista ibérica de sistemas y tecnologías de información. 26, p. 31-42.`,
-      link: ``,
+      link: `https://scielo.pt/pdf/rist/n26/n26a04.pdf`,
     },
     {
       referencia: `Morales, J., & Pardo, C. (2016). <em>Revisión sistemática de la integración de modelos de desarrollo de software dirigido por modelos y metodologías ágiles/systematic review about the integration of model-driven software development and agile methodologies.</em> Informador Técnico. 80, p.1- 87.`,
-      link: ``,
+      link: `https://revistas.sena.edu.co/index.php/inf_tec/article/view/326/3013`,
     },
     {
       referencia: `Ramos, A., Pérez, H., Nava, S., & Martínez, F. (2022). <em>Mic-agile: metodología ágil para micro-equipos de desarrollo de software</em>. Revista Ingenio, 19 (1), p. 1-8.`,
-      link: ``,
+      link: `https://revistas.ufps.edu.co/index.php/ingenio/article/view/2779/3627`,
     },
     {
       referencia: `Renan, C., Merchán, E., & Mero, K. 2021). <em>Ingeniería de procesos para el desarrollo de software de calidad.</em> Serie Científica de la Universidad de las Ciencias Informáticas. 14.4, p.133-50.`,
-      link: ``,
+      link: `https://dialnet.unirioja.es/servlet/articulo?codigo=8590503`,
     },
     {
       referencia: `Soto, D., Reyes, A., Giraldo, J., Villamizar, A. & Vidal, F. (2022). <em>Buenas prácticas para el desarrollo de software sostenible.</em> Risti. Revista ibérica de sistemas y tecnologías de información. E49, p. 449-60. `,
-      link: ``,
+      link: `https://dspace.tdea.edu.co/bitstream/handle/tdea/2657/Buenas%20prácticas%20para%20el%20desarrollo%20de%20software%20sostenibel.pdf?sequence=1&isAllowed=y`,
     },
   ],
   creditos: {
