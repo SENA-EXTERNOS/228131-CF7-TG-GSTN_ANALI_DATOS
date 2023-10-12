@@ -249,7 +249,7 @@
         figure
           img(src='@/assets/curso/temas/tema3/img-14.png') 
 
-    p.mb-5 A continuación, pude visualizar las fases a tener en cuenta en la construcción de <em>software</em>:
+    p.mb-5 A continuación, puede visualizar las fases a tener en cuenta en la construcción de <em>software</em>:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10

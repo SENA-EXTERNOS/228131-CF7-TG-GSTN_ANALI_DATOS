@@ -130,7 +130,7 @@
                 li 
                 li 
                   <i class="fas fa-angle-right" aria-hidden="true"></i>
-                  p ¿Cuáles son los indicadores clave de rendimiento (KPI)?  
+                  p ¿Cuáles son los indicadores claves de rendimiento (KPI)?  
                 li 
                 li 
                   <i class="fas fa-angle-right" aria-hidden="true"></i>
